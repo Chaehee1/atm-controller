@@ -1,4 +1,4 @@
-## ATM controller
+## ATM Controller
 
 ### Flow
 Insert Card => PIN number => Select Account => See Balance/Deposit/Withdraw
