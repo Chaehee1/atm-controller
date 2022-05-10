@@ -1,8 +1,8 @@
 ## ATM controller
 
-###Flow
+### Flow
 Insert Card => PIN number => Select Account => See Balance/Deposit/Withdraw
 
-###Instructions
+### Instructions
 To run tests, enter preset PIN number '1234'.
 
